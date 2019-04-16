@@ -1,0 +1,6 @@
+<launch>
+    <node name="ww" pkg="va" type="ww.py" output="screen"/>
+    <node name="stt" pkg="va" type="stt.py" output="screen"/>
+    <node name="nlp" pkg="va" type="nlp.py" output="screen"/>
+    <node name="tts" pkg="va" type="tts.py" output="screen"/>
+</launch>

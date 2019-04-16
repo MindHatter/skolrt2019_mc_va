@@ -1,0 +1,6 @@
+*.pyc
+*.wav
+settings.py
+__pycache__
+snowboy/
+sfx/
